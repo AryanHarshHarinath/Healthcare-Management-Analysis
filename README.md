@@ -50,16 +50,16 @@
 ## 📊 Dashboards Preview  
 
 **Appointments & Patients**  
-![Dashboard 1](https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20202723.png)  
+![Dashboard 1](https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20220723.png)  
 
 **Revenue & Payments**  
-![Dashboard 2](https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20202747.png)  
+![Dashboard 2](https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20220747.png)    
 
 **Doctor Performance**  
-![Dashboard 3](https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20202800.png)  
+![Dashboard 3](https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20220800.png)  
 
 **Branch Comparison**  
-![Dashboard 4](https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20202814.png)  
+![Dashboard 4](https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20220814.png)  
 
 
 
