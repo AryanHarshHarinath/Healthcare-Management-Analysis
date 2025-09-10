@@ -49,7 +49,8 @@
 ## 📊 Dashboards Preview
 Page1(https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20220723.png)
 Page2(https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20220747.png)
-Page3(
+Page3(https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20220800.png)
+Page4(
 
 
 ## 📬 Connect with Me
