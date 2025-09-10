@@ -47,10 +47,6 @@
 
 ---
 ## 📊 Dashboards Preview
-https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20220723.png
-https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20220747.png
-https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20220800.png
-https://github.com/AryanHarshHarinath/Healthcare-Management-Analysis/blob/main/Screenshot%202025-09-09%20220814.png
 
 ## 📬 Connect with Me
 👨‍💻 Aryan Harsh  
